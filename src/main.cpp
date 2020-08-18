@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-#include "fizzbuzz/rules.hpp"
+#include "fizzbuzz/fizzbuzz.hpp"
 #include "util/print_tuples.hpp"
 #include "util/strlit.hpp"
 

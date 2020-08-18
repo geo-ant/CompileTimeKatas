@@ -8,7 +8,7 @@ include_directories(include/fizzbuzz)
 include_directories(include/util)
 
 add_executable(CompileTimeKatas
-        include/fizzbuzz/rules.hpp
+        include/fizzbuzz/fizzbuzz.hpp
         include/util/print_tuples.hpp
         include/util/strlit.hpp
         src/main.cpp)
