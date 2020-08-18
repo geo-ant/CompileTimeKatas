@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#From CLion
+cmake-build-debug/
+cmake-build-release/
+.idea/
+.goutputstream-F6FPP0
